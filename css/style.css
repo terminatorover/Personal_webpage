@@ -1,0 +1,18 @@
+
+
+aside{
+	width:25%;
+	height:658px;
+	float:left;
+	background-color:green;
+
+}
+
+section {
+	width:auto;
+	height:auto;
+	max-width:75%;
+	background-color:yellow;
+	height:100%;
+	
+	}

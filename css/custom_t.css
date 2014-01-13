@@ -1,0 +1,96 @@
+/*this is a custom CSS stylesheet*/
+
+/* This is an attempt to recreating tumblr's homepage  */
+
+html{
+height:100%;
+}
+body{
+/* background-image: url("https://24.media.tumblr.com/07ce4b5f195fdbb6e70ba9f8976445ed/tumblr_myyeg44HTM1qamr8do2_1280.jpg");
+ */
+/* background-image: url("https://31.media.tumblr.com/5cab7bc2295da65b802ddf5711f0eaad/tumblr_myxr6wTO0O1r7gwzmo1_1280.jpg");
+ */ 
+/* background-image:url("https://31.media.tumblr.com/604e93e9ee462a04bb0c1ba3b1130298/tumblr_myzrs28HBm1qz4w2lo1_1280.jpg");
+ */
+ background-image:url("https://24.media.tumblr.com/6ef590386b31c0bee95af1be8c9bf173/tumblr_myy8isiZaD1raxjpco1_1280.jpg");
+ background-size: cover;
+ /* background-image:url("https://24.media.tumblr.com/2b520bc2540e03044fe1d1c4636f6f3a/tumblr_mysufpn7DS1rlighio1_1280.jpg"); */
+ background-position:center center; 
+padding-top:5em;
+text-shadow: 1px 1px 1px #000;
+height:100%;
+
+/* height:200px;
+ */}
+
+h1,h3{
+text-align:center;
+color:white;
+
+}
+
+h1{
+font-size:6em;
+color:white;
+
+}
+h3{
+color:#fff;
+padding;2em;
+font:normal 14px/1.4 "Helvetica Neue","HelveticaNeue",Helvetica,Arial,sans-serif;
+font-size:2em;
+}
+
+.form-control {
+	
+
+}
+
+.btn.btn-primary.signup{
+	width:50%;
+	margin-left: 21%;
+}
+
+
+footer{
+border-top:1px solid #fff;
+/* 	background:rgba(200, 54, 54, 0.5);
+ *//* background-color: cadetblue;
+ */top:auto;
+position: fixed;
+	margin-top: -180px; /* negative value of footer height */
+	height: 80px;
+	clear:both;
+	bottom: 0px;
+	width:100%;
+	padding-top:3.2em;
+	margin-left:1em;
+	
+}
+
+footer div{
+	width: 50 px;
+	margin-left: 0;
+	/* margin-right:210px; */
+	padding-left:20px;
+	display:inline-block ;
+	color:#2a6496;
+;
+	font-size:1.0em;
+}
+#Terms_Services{
+float:left;
+margin-left:1em;
+margin-right:1em;
+
+}
+
+
+#artist{
+width:200px;
+float:right;
+}
+
+#no_m { 
+margin-left: 0px;
+}
